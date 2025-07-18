@@ -8,7 +8,7 @@ BigQuery \
 Looker Studio \
 SQL
 
-Link to DasgBoard: https://lookerstudio.google.com/reporting/bd848d97-e1cb-4ed1-ae4e-0d9502332ac7 
+Link to DashBoard: https://lookerstudio.google.com/reporting/bd848d97-e1cb-4ed1-ae4e-0d9502332ac7 
 
 ### SQL Query:
 <img width="540" height="200" alt="image" src="https://github.com/user-attachments/assets/b53bbcf9-612e-4078-968f-f52e8a99c666" />
