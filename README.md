@@ -10,8 +10,5 @@ SQL
 
 Link to DashBoard: https://lookerstudio.google.com/reporting/bd848d97-e1cb-4ed1-ae4e-0d9502332ac7 
 
-### SQL Query:
-<img width="540" height="200" alt="image" src="https://github.com/user-attachments/assets/b53bbcf9-612e-4078-968f-f52e8a99c666" />
-
 ### Dashboard Screenshot:
 <img width="1097" height="818" alt="image" src="https://github.com/user-attachments/assets/ae3a825d-5a10-4320-bdc3-f5cb0d8f22df" />
